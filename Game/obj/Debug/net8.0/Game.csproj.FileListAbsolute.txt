@@ -1,0 +1,17 @@
+C:\Users\mikew\source\repos\ChessSharp\Game\bin\Debug\net8.0\Game.deps.json
+C:\Users\mikew\source\repos\ChessSharp\Game\bin\Debug\net8.0\Game.dll
+C:\Users\mikew\source\repos\ChessSharp\Game\bin\Debug\net8.0\Game.pdb
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\Game.AssemblyInfoInputs.cache
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\Game.AssemblyInfo.cs
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\Game.csproj.CoreCompileInputs.cache
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\Game.dll
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\refint\Game.dll
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\Game.pdb
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\ref\Game.dll
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\Game.csproj.AssemblyReference.cache
+C:\Users\mikew\source\repos\ChessSharp\Game\bin\Debug\net8.0\Board.dll
+C:\Users\mikew\source\repos\ChessSharp\Game\bin\Debug\net8.0\Piece.dll
+C:\Users\mikew\source\repos\ChessSharp\Game\bin\Debug\net8.0\Board.pdb
+C:\Users\mikew\source\repos\ChessSharp\Game\bin\Debug\net8.0\Piece.pdb
+C:\Users\mikew\source\repos\ChessSharp\Game\obj\Debug\net8.0\Game.csproj.Up2Date

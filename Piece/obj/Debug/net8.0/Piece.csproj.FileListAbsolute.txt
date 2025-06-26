@@ -1,0 +1,11 @@
+C:\Users\mikew\source\repos\ChessSharp\Piece\bin\Debug\net8.0\Piece.deps.json
+C:\Users\mikew\source\repos\ChessSharp\Piece\bin\Debug\net8.0\Piece.dll
+C:\Users\mikew\source\repos\ChessSharp\Piece\bin\Debug\net8.0\Piece.pdb
+C:\Users\mikew\source\repos\ChessSharp\Piece\obj\Debug\net8.0\Piece.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikew\source\repos\ChessSharp\Piece\obj\Debug\net8.0\Piece.AssemblyInfoInputs.cache
+C:\Users\mikew\source\repos\ChessSharp\Piece\obj\Debug\net8.0\Piece.AssemblyInfo.cs
+C:\Users\mikew\source\repos\ChessSharp\Piece\obj\Debug\net8.0\Piece.csproj.CoreCompileInputs.cache
+C:\Users\mikew\source\repos\ChessSharp\Piece\obj\Debug\net8.0\Piece.dll
+C:\Users\mikew\source\repos\ChessSharp\Piece\obj\Debug\net8.0\refint\Piece.dll
+C:\Users\mikew\source\repos\ChessSharp\Piece\obj\Debug\net8.0\Piece.pdb
+C:\Users\mikew\source\repos\ChessSharp\Piece\obj\Debug\net8.0\ref\Piece.dll
