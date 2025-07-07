@@ -33,10 +33,11 @@ namespace Game
             else
             {
                 activePlayer = activePlayer == Piece.PieceColor.White ? Piece.PieceColor.Black : Piece.PieceColor.White;
+                Console.Clear();
+                myBoard.DisplayBoard();
             }
             do
             {
-                //myBoard.DisplayBoard();
                 Console.WriteLine(activePlayer.ToString() + "'s turn.");
                 Console.WriteLine("Enter move with to and from cordinates (e.g. e7 e5):");
                 string input = Console.ReadLine();
@@ -58,6 +59,7 @@ namespace Game
             if(Squares.Length != 2)
             {
                 Console.Clear();
+                myBoard.DisplayBoard();
                 Console.WriteLine("Invalid input. Please enter two squares separated by a space.");
                 return false;
             }
