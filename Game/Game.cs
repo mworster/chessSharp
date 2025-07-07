@@ -73,6 +73,8 @@ namespace Game
             {
                 if (s.Length != 2 || !char.IsLetter(s[0]) || !char.IsDigit(s[1]))
                 {
+                    Console.Clear();
+                    myBoard.DisplayBoard();
                     Console.WriteLine($"Invalid square: {s}. Please use format like 'e2' or 'a7'.");
                     return false;
                 }
@@ -80,6 +82,8 @@ namespace Game
                 char row = s[1];
                 if (column < 'a' || column > 'h' || row < '1' || row > '8')
                 {
+                    Console.Clear();
+                    myBoard.DisplayBoard();
                     Console.WriteLine($"Invalid square: {s}. Please use columns a-h and rows 1-8.");
                     return false;
                 }
