@@ -41,6 +41,12 @@ namespace Game
                 Console.WriteLine(activePlayer.ToString() + "'s turn.");
                 Console.WriteLine("Enter move with to and from cordinates (e.g. e7 e5):");
                 string input = Console.ReadLine();
+                if(input.ToLower() == "quit")
+                {
+                    gameStatus = Status.Done;
+                    Console.WriteLine(activePlayer.ToString() + " resigns. Game over.");
+                    return;
+                }
                 string[] cords = input.Split(' ');
                 if(validateSquareSelection(cords) &&
                     validateStartingColor(cords[0]) &&
